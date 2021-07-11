@@ -1,0 +1,23 @@
+{
+  "name": "projeto1GamaAcademyJS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TacianeSantos/projeto1GamaAcademyJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TacianeSantos/projeto1GamaAcademyJS/issues"
+  },
+  "homepage": "https://github.com/TacianeSantos/projeto1GamaAcademyJS#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
